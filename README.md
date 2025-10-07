@@ -29,3 +29,8 @@ venv/assets/screenshot.png
 🧑‍💻 作者
 陳愷斌（KaiBin Tang）
 Email: kbtang2001@gmail.com
+
+
+<img width="996" height="1034" alt="screenshot" src="https://github.com/user-attachments/assets/744ac509-7c39-4164-8f81-88f7943b1809" />
+
+
